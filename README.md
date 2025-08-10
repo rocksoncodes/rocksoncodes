@@ -1,6 +1,6 @@
-## About Me </br>
+## 👋 About Me </br>
 I’m Michael Rockson, a full-stack developer in training.
-I love building web applications and automation tools that help people work faster, cut down on repetitive tasks, and keep things running smoothly.
+I love building web applications and automation tools that help people work faster, cut down on repetitive tasks and keep things running smoothly.
 
 ## Tech Stack:
 Right now, I’m focused on improving my skills in:
@@ -8,10 +8,13 @@ Right now, I’m focused on improving my skills in:
 
 ## Learning by Building
 Every project I create is a chance to turn new knowledge into something practical.
-My goal is to keep improving with each build, tackling slightly bigger challenges every time.
+My goal is to keep improving with each build and tackling slightly bigger challenges every time.
 
 Check my pinned projects, they’re small steps but each one solves a real problem.
 
-## Socials:
-If you need to reach out to me, my email is down below:</br>
+## Get In Touch:
+If you want to chat about projects, ideas, or opportunities, my email’s right below, feel free to reach out.</br>
+
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:coffiecodes@gmail.com) 
+
+Thank you and have fun exploring my profile!
