@@ -16,6 +16,6 @@ Check my pinned projects, they’re small steps but each one solves a real probl
 ## Get In Touch:
 If you want to chat about projects, ideas, or opportunities, my email’s right below, feel free to reach out.</br>
 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:coffiecodes@gmail.com) 
+📧 [coffiecodes@gmail.com](mailto:coffiecodes@gmail.com)
 
 Thank you and have fun exploring my profile!
