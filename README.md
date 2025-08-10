@@ -1,5 +1,5 @@
-👋 About Me
-
+##👋 About Me
+___
 I’m Michael Rockson, a full-stack developer in training.
 I love building web applications and automation tools that help people work faster, cut down on repetitive tasks, and keep things running smoothly.
 
