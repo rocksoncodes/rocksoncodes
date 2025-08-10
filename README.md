@@ -14,7 +14,7 @@ My goal is to keep improving with each build and tackling slightly bigger challe
 Check my pinned projects, they’re small steps but each one solves a real problem.
 
 ## Get In Touch:
-If you want to chat about projects, ideas, or opportunities, my email’s right below, feel free to reach out.</br>
+If you want to chat about projects, ideas or opportunities, my email’s right below, feel free to reach out.</br>
 
 📧 [coffiecodes@gmail.com](mailto:coffiecodes@gmail.com)
 
