@@ -13,5 +13,5 @@ My goal is to keep improving with each build, tackling slightly bigger challenge
 Check my pinned projects, they’re small steps but each one solves a real problem.
 
 ## Socials:
-If you need to reach out to me, my email is down below:
+If you need to reach out to me, my email is down below:</br>
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:coffiecodes@gmail.com) 
