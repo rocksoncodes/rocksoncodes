@@ -3,7 +3,9 @@
 I’m Michael Rockson, a software engineer comfortable working across both front-end and back-end technologies.
 
 I build user interfaces with HTML, CSS, and Angular and back them with practical backend logic and APIs. 
-I care about structure on both sides; clean components on the front end, clear data flow and maintainable logic on the back end. I’m less interested in flashy demos and more interested in things that hold up when they’re actually used.
+I care about structure on both sides; clean components on the front end, clear data flow and maintainable logic on the back end.</br>
+
+I’m less interested in flashy demos and more interested in things that hold up when they’re actually used.
 
 ## What I Work With
 
