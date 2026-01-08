@@ -1,11 +1,21 @@
 ## About Me
 
-I’m Michael Rockson, a junior backend-leaning software engineer focused on building practical APIs and backend systems that solve real problems and work reliably in real use.
+I’m Michael Rockson, a software engineer comfortable working across both front-end and back-end technologies.
 
-I enjoy turning requirements into working features, building automation that reduces repetitive work and writing backend logic that’s clear, maintainable, and easy for others to build on.
-
+I build user interfaces with HTML, CSS, and Angular and back them with practical backend logic and APIs. 
+I care about structure on both sides; clean components on the front end, clear data flow and maintainable logic on the back end. I’m less interested in flashy demos and more interested in things that hold up when they’re actually used.
 
 ## What I Work With
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+
+
 
 ### Backend & Systems
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -13,28 +23,31 @@ I enjoy turning requirements into working features, building automation that red
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
 ### Tooling & Workflow
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![WebStorm](https://img.shields.io/badge/webstorm-000000.svg?style=for-the-badge&logo=webstorm&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
 
 
 ## How I Use This GitHub
 
-This GitHub is a collection of backend-focused projects and small systems built to solve specific problems.
+This GitHub is a collection of small systems built around real constraints data flow, state management and maintainability.
 
-The pinned repositories represent my best work and how I approach:
-- API design
-- Backend logic
-- Data modeling
-- Reliability and maintainability
+Some projects lean front-end, others lean back-end but all of them follow the same principles:
 
-The projects may be small, but each one is built with real-world use in mind.
+- Clear structure
+- Predictable behavior
+- Code that’s easy to read, change and extend
+
+The pinned repositories reflect how I think about features and data with an emphasis on clarity and maintainability over visual polish.
 
 ## Get In Touch
 
-If you’d like to talk about projects, ideas or opportunities, feel free to reach out.
+If you want to talk about projects, ideas or opportunities, reach out.
 
 📧 **[coffiecodes@gmail.com](mailto:coffiecodes@gmail.com)**
 
