@@ -4,7 +4,7 @@ I’m Michael Rockson, a software developer who turns unclear requirements into 
 
 I focus on building frontend interfaces with clear structure and predictable behavior, backed by practical backend logic and APIs that hold up under real use. 
 
-I’m less interested in flashy demos and more interested in software that survives real users, real data, and real constraints.
+I’m less interested in flashy demos and more interested in software that survives real users, real data and real constraints.
 </br>
 
 ## What I Work With
