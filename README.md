@@ -33,35 +33,24 @@ can live with and that solves the right problem from the start.
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## How I Deliver Value
-There's usually a gap between what a business needs and what ends up getting 
-built. Closing that gap is where I'm most useful and honestly, where I 
-enjoy working most.
 
-When you work with me, here's what that looks like in practice:
-
-- **I ask the hard questions early.** Before writing a single line of code, 
+**I ask the hard questions early.** Before writing a single line of code, 
 I want to understand the actual problem not just the feature request. 
 That's how we avoid spending three months building the wrong thing really well.
 
-- **I ship what works, not what's impressive.** I'm not going to introduce a 
+**I ship what works, not what's impressive.** I'm not going to introduce a 
 microservices architecture because it's trendy. If a straightforward solution 
 gets you to your goal faster, that's the one we go with. The goal is your 
 business moving forward, not my portfolio looking interesting.
 
-- **I write code your team can live with.** Clean, maintainable code isn't a 
+**I write code your team can live with.** Clean, maintainable code isn't a 
 nice-to-have it's cheaper in the long run. Less time firefighting means 
 more time building things that actually matter.
 
-*The projects on this profile reflect that thinking, real constraints, real 
-tradeoffs, built to last.*
-
 ## How To Get In Touch
-If you've got a product to launch, a system that's starting to buckle under 
-its own weight or a technical problem that's been quietly costing you more 
-than it should. I'd like to hear about it.
 
-No lengthy intake forms. Just send me an email and tell me what you're 
-dealing with.
+Just send me an email and tell me what you're 
+dealing with. 
 
 📧 **[coffiecodes@gmail.com](mailto:coffiecodes@gmail.com)**
 
