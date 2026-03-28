@@ -1,13 +1,9 @@
 ## About Me
-I'm Michael Rockson, a Software Developer. I care more about the 
-software solving your problem than whether it's technically impressive. Clean 
-architecture matters, good patterns matter, but only because they make the 
-product cheaper to maintain and easier to grow. That's the logic everything 
-I build starts from.
+I’m Michael Rockson, a software developer with a business driven mindset. I care more about solving your problem than building something technically impressive or complex. Clean 
+architecture matters, good patterns matter but only because they make the 
+solution cheaper to maintain and easier to grow. That’s the principle behind everything I build.
 
-What that means practically: every technical choice I make is in service of 
-the outcome you're actually paying for. A product that works, that your team 
-can live with and that solves the right problem from the start.
+In practice, this means every technical decision I make serves the outcome you’re actually paying for: a system that works, solves the right problem from the start and remains something your team can confidently maintain and grow to meet new demands.
 
 ## Technical Stack
 ### Frontend
@@ -40,7 +36,7 @@ business moving forward, not my portfolio looking interesting.
 
 **I write code your team can live with.** Clean, maintainable code isn't a 
 nice-to-have it's cheaper in the long run. Less time firefighting means 
-more time building things that actually matter.
+more time building things that actually serve you.
 
 ## How To Get In Touch
 
