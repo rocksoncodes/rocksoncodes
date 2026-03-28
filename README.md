@@ -1,7 +1,4 @@
 ## About Me
-If you're here, you're probably figuring out whether I'm the right person 
-for something you're building or fixing. Fair enough let me make that easy.
-
 I'm Michael Rockson, a Software Developer. I care more about whether the 
 software solves your problem than whether it's technically impressive. Clean 
 architecture matters, good patterns matter, but only because they make the 
