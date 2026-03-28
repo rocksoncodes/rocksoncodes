@@ -1,6 +1,6 @@
 ## About Me
-I'm Michael Rockson, a Software Developer. I care more about whether the 
-software solves your problem than whether it's technically impressive. Clean 
+I'm Michael Rockson, a Software Developer. I care more about the 
+software solving your problem than whether it's technically impressive. Clean 
 architecture matters, good patterns matter, but only because they make the 
 product cheaper to maintain and easier to grow. That's the logic everything 
 I build starts from.
