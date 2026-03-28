@@ -1,8 +1,12 @@
 ## About Me
 
-I'm Michael Rockson, a Software Developer. I don't treat code as the end goal but as a tool. The real goal is solving the business problem in front of us, improving how something works and delivering something end-users actually value.
+If you're reading this, you're probably trying to figure out whether I'm the right person for something you're building or fixing.
 
-That shapes how I work: I keep technical decisions grounded in business realities, balancing scalability and performance against budgets, timelines and what the market actually needs right now. When I partner with a team or a client, I'm thinking about outcomes not just output.
+Fair enough, let me make that easy: 
+
+I'm Michael Rockson, a Software Developer. I care more about whether the software solves your problem than whether it's technically impressive. Clean architecture matters, good patterns matter but only because they make the product cheaper to maintain and easier to grow. That's the logic everything I build starts from.
+
+What that means practically: every technical choice I make is in service of the outcome you're actually paying for. A product that works, that your team can live with and that solves the right problem from the start.
 </br>
 
 ## Technical Stack
@@ -30,17 +34,18 @@ That shapes how I work: I keep technical decisions grounded in business realitie
 
 ## How I Deliver Value
 
-I am most effective when bridging the gap between business strategy and technical execution. When you work with me, you get an engineer focused on:
+There's usually a gap between what a business needs and what ends up getting built. Closing that gap is where I'm most useful and honestly, where I enjoy working most. When you work with me, here's what that looks like in practice:
 
-- Strategic Alignment: I ask the right questions early to ensure the software we are building actually solves the core business problem and delivers ROI.
-- Pragmatic Delivery: I prioritize shipping working, valuable features over chasing the latest technical trends. If a simple solution achieves the business goal faster, that's what we build.
-- Sustainable Engineering: I write clean, maintainable code that reduces long-term technical debt, lowering development costs and risk over time.
+- I ask the hard questions early. Before writing a single line of code, I want to understand the actual problem not just the feature request. That's how we avoid spending three months building the wrong thing really well.
+- I ship what works, not what's impressive. I'm not going to introduce a microservices architecture because it's trendy. If a straightforward solution gets you to your goal faster, that's the one we go with. The goal is your business moving forward, not my portfolio looking interesting.
+- I write code your team can live with. Clean, maintainable code isn't a nice-to-have it's cheaper in the long run. Less time firefighting means more time building things that actually matter.
   
-*This profile serves as a portfolio of pragmatic, business-driven engineering. The projects here are built around real-world constraints, demonstrating how I handle data flow, edge cases, and maintainability.*
+*The projects on this profile reflect that thinking.*
 
 ## How To Get In Touch
 
-If you are looking for an engineering partner to help launch a product, scale a system or untangle a complex technical problem holding your business back, let's talk.
+If you've got a product to launch, a system that's starting to buckle under its own weight, or a technical problem that's been quietly costing you more than it should. I'd like to hear about it.
+No lengthy intake forms. Just send me an email and tell me what you're dealing with.
 
 📧 **[coffiecodes@gmail.com](mailto:coffiecodes@gmail.com)**
 
