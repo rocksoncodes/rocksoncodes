@@ -1,13 +1,11 @@
 ## About Me
 
-I’m Michael Rockson, a software developer who turns unclear requirements into reliable, maintainable systems. 
+I'm Michael Rockson, a Software Developer. I don't treat code as the end goal but as a tool. The real goal is solving the business problem in front of us, improving how something works and delivering something end-users actually value.
 
-I focus on building frontend interfaces with clear structure and predictable behavior, backed by practical backend logic and APIs that hold up under real use. 
-
-I’m less interested in flashy demos and more interested in software that survives real users, real data and real constraints.
+That shapes how I work: I keep technical decisions grounded in business realities, balancing scalability and performance against budgets, timelines and what the market actually needs right now. When I partner with a team or a client, I'm thinking about outcomes not just output.
 </br>
 
-## What I Work With
+## Technical Stack
 
 ### Frontend
 
@@ -17,9 +15,7 @@ I’m less interested in flashy demos and more interested in software that survi
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
-
-
-### Backend 
+### Backend & Data
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -30,27 +26,22 @@ I’m less interested in flashy demos and more interested in software that survi
 ### Tooling & Workflow
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![WebStorm](https://img.shields.io/badge/webstorm-000000.svg?style=for-the-badge&logo=webstorm&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
 
 
-## How I Use This GitHub
+## How I Deliver Value
 
-This GitHub is a collection of small systems built around real constraints data flow, state management and maintainability.
+I am most effective when bridging the gap between business strategy and technical execution. When you work with me, you get an engineer focused on:
 
-Some projects lean front-end, others lean back-end but all of them follow the same principles:
+- Strategic Alignment: I ask the right questions early to ensure the software we are building actually solves the core business problem and delivers ROI.
+- Pragmatic Delivery: I prioritize shipping working, valuable features over chasing the latest technical trends. If a simple solution achieves the business goal faster, that's what we build.
+- Sustainable Engineering: I write clean, maintainable code that reduces long-term technical debt, lowering development costs and risk over time.
+  
+*This profile serves as a portfolio of pragmatic, business-driven engineering. The projects here are built around real-world constraints, demonstrating how I handle data flow, edge cases, and maintainability.*
 
-- Clear structure
-- Predictable behavior
-- Code that’s easy to read, change and extend
+## How To Get In Touch
 
-The pinned repositories reflect how I think about features and data with an emphasis on clarity and maintainability over visual polish.
-
-## Get In Touch
-
-If you want to talk about projects, ideas or opportunities, reach out.
+If you are looking for an engineering partner to help launch a product, scale a system or untangle a complex technical problem holding your business back, let's talk.
 
 📧 **[coffiecodes@gmail.com](mailto:coffiecodes@gmail.com)**
 
-Thanks for stopping by.
+The best engineering partnerships start with a clear problem. Bring yours.
