@@ -27,10 +27,10 @@ In practice, this means every technical decision I make serves the outcome youâ€
 
 **I ask the hard questions early.** Before writing a single line of code, 
 I want to understand the actual problem not just the feature request. 
-That's how we avoid spending three months building the wrong thing really well.
+That's how we avoid spending two weeks building the wrong thing really well.
 
 **I ship what works, not what's impressive.** I'm not going to introduce a 
-microservices architecture because it's trendy. If a straightforward solution 
+framework because it's trendy. If a straightforward solution 
 gets you to your goal faster, that's the one we go with. The goal is your 
 business moving forward, not my portfolio looking interesting.
 
