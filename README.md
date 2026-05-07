@@ -26,7 +26,7 @@ more time building things that actually serve you.
 ## How To Get In Touch
 
 Just send me an email and tell me what you're 
-dealing with. 
+dealing with. I'm open to freelance projects, full-time roles and technical partnerships.
 
 📧 **[coffiecodes@gmail.com](mailto:coffiecodes@gmail.com)**
 
