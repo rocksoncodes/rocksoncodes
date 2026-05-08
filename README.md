@@ -4,8 +4,7 @@ I’m Michael Rockson, a software developer with a business driven mindset. I ca
 In practice, this means every technical decision I make serves the outcome you’re actually paying for: a system that works, solves the right problem from the start and remains something your team can confidently maintain and grow to meet new demands.
 
 ## Technical Stack
-![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,angular,python,laravel,mysql,postgres,git,docker)
-
+![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,angular,python,laravel,mysql,postgres,flask,git,docker)
 ## How I Deliver Value
 
 **I ship what works, not what's impressive.** I'm not going to introduce a 
